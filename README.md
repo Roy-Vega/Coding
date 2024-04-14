@@ -2,8 +2,8 @@
 
 ## Projects 
 
-### [Network Services Lab with DMZ, LAN and WAN Setup](https://github.com/Roy-Vega/Networking/tree/main/Network%20Services%20Lab%20with%20DMZ%2C%20LAN%20and%20WAN%20Setup)
-This project establishes a structured network with WAN, LAN, and DMZ segments. The network is managed using the "pfSense" firewall, regulating network traffic and ensuring security.
+### [Port Scanner](d)
+This basic code in Python scans for open ports on the provided IPv4 address. 
 
 
 ## Contributors
